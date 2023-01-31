@@ -57,6 +57,53 @@ Still unknown, feel free to contribute your knowledge here
 ## **d**
 Contains item informations for weapons, armor etc.
 The structure is not fully known, feel free to contribute your knowledge here
+```
+Jesbar's mail shirt
+14 Strength needed 20
+28 Prot Weapons 40
+1E Prot Arrows 30
+00
+05DC Value 1500
+0202
+0A +10 Health
+05 +5 Dexterity ?
+05 +5 Dexterity ?
+00
+640F Icon
+
+
+Chain mail
+28 Strength needed 40
+32 Prot Weapons 50
+28 Prot Arrows 40
+00
+0294 Value 660
+00
+00
+640F Icon
+
+
+Plate mail
+41 Strength needed 65
+46 Prot Weapons 70
+50 Prot Arrows 80
+00
+06F4 Value 1780
+00
+00
+6410 Icon
+
+
+Light plate mail
+37 Strength needed 55
+3C Prot Weapons 60
+3C Prot Weapons 60
+00
+041A Value 1050
+00
+00
+6410 Icon
+```
 
 ## **f**
 Still unknown, feel free to contribute your knowledge here

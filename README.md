@@ -132,8 +132,8 @@ Light diggers trousers (Offset: 136D)
 ```
 Knife (Offset and order of bytes unknown)
 ?? type one-handed weapon
-05 Strength needed 0
-0F Max Dmg 0F
+05 Strength needed 5
+0F Max Dmg 15
 0C Min Dmg 12
 38 Hit Chance 56
 64 Speed 100

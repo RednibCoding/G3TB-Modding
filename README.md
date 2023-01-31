@@ -137,6 +137,7 @@ Knife (Offset and order of bytes unknown)
 64 Speed 100
 0A Range 10
 08 Critical hit 8
+???? Icon
 ```
 
 **Copy me to add new item types if you found some**

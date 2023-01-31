@@ -1,7 +1,9 @@
 # G3TB-Modding
 Gothic 3 The Beginning Modding Info Summary
 
-This is a summary of all infos gained during exploring the Gothic 3 TB files
+This is a summary of all infos gained during exploring the Gothic 3 TB files.
+
+>If you have any information that are not listed here, feel free to add them.
 
 ![](files/cover.png)
 

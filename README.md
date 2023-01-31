@@ -23,7 +23,7 @@ The jd-gui tool to decompile and browse .jar and .class files
 # File Types
 
 ## **.class**
-Description of the five class/java files:
+Description of the five java/class files:
 
 - A.class
   - Still unknown, feel free to contribute your knowledge here

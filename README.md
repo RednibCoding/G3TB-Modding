@@ -3,7 +3,7 @@ Gothic 3 The Beginning Modding Info Summary
 
 This is a summary of all infos gained during exploring the Gothic 3 TB files
 
-# Folders
+# Content of this repo
 
 ### **images**
 Contains all the extracted images
@@ -23,7 +23,7 @@ The jd-gui tool to decompile and browse .jar and .class files
 # File Types
 
 ## **.class**
-Description of the five class/java files:
+Description of the five java/class files:
 
 <details>
   <summary>Show class files</summary>

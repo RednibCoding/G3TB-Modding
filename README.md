@@ -68,7 +68,7 @@ The structure is not fully known, feel free to contribute your knowledge here
   <summary>Items found</summary>
 
 ```
-Jesbar's mail shirt
+Jesbar's mail shirt (Offset: 13F0)
 14 Strength needed 20
 28 Prot Weapons 40
 1E Prot Arrows 30
@@ -82,7 +82,7 @@ Jesbar's mail shirt
 640F Icon
 
 
-Chain mail
+Chain mail (Offset: 13C1)
 28 Strength needed 40
 32 Prot Weapons 50
 28 Prot Arrows 40
@@ -93,7 +93,7 @@ Chain mail
 640F Icon
 
 
-Plate mail
+Plate mail (Offset: 13DD)
 41 Strength needed 65
 46 Prot Weapons 70
 50 Prot Arrows 80
@@ -104,7 +104,7 @@ Plate mail
 6410 Icon
 
 
-Light plate mail
+Light plate mail (Offset: 13CF)
 37 Strength needed 55
 3C Prot Weapons 60
 3C Prot Weapons 60
@@ -113,6 +113,16 @@ Light plate mail
 00
 00
 6410 Icon
+
+Light diggers trousers (Offset: 136D)
+00 Strength needed 0
+05 Prot Weapons 0
+00 Prot Weapons 0
+00
+0005 Value 5
+00
+00
+640D Icon
 ```
 </details>
 

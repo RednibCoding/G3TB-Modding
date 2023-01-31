@@ -25,6 +25,9 @@ The jd-gui tool to decompile and browse .jar and .class files
 ## **.class**
 Description of the five class/java files:
 
+<details>
+  <summary>Show class files</summary>
+
 - A.class
   - Still unknown, feel free to contribute your knowledge here
 - B.class
@@ -35,6 +38,7 @@ Description of the five class/java files:
   - Still unknown, feel free to contribute your knowledge here
 - HG.class
   - Still unknown, feel free to contribute your knowledge here
+</details>
 
 ## **.mid**
 The game music in midi file format
@@ -57,6 +61,10 @@ Still unknown, feel free to contribute your knowledge here
 ## **d**
 Contains item informations for weapons, armor etc.
 The structure is not fully known, feel free to contribute your knowledge here
+
+<details>
+  <summary>Items found</summary>
+
 ```
 Jesbar's mail shirt
 14 Strength needed 20
@@ -104,6 +112,7 @@ Light plate mail
 00
 6410 Icon
 ```
+</details>
 
 ## **f**
 Still unknown, feel free to contribute your knowledge here

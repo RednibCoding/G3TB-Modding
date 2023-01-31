@@ -3,6 +3,8 @@ Gothic 3 The Beginning Modding Info Summary
 
 This is a summary of all infos gained during exploring the Gothic 3 TB files
 
+![](files/cover.png)
+
 # Content of this repo
 
 ### **images**

@@ -65,8 +65,9 @@ Contains item informations for weapons, armor etc.
 The structure is not fully known, feel free to contribute your knowledge here
 
 <details>
-  <summary>Items found</summary>
+  <summary>Items found:</summary>
 
+**Armor**
 ```
 Jesbar's mail shirt (Offset: 13F0)
 14 Strength needed 20
@@ -123,6 +124,16 @@ Light diggers trousers (Offset: 136D)
 00
 00
 640D Icon
+```
+
+**Weapons**
+```
+Still unknown, feel free to contribute your knowledge here
+```
+
+**Copy me to add new item types if you found some**
+```
+Still unknown, feel free to contribute your knowledge here
 ```
 </details>
 

@@ -1173,6 +1173,14 @@ Admiral's Leather armour (Offset: 142F)
   ```
 </details>
 
+<details>
+  <summary>Item list:</summary>
+
+  ```
+  List items here
+  ```
+</details>
+
 ## **f**
 Still unknown, feel free to contribute your knowledge here
 

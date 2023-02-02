@@ -963,10 +963,215 @@ Admiral's Leather armour (Offset: 142F)
   ```
 </details>
 
-**Copy me to add new item types if you found some**
-```
-Still unknown, feel free to contribute your knowledge here
-```
+### **Jewellery**
+
+<details>
+  <summary>Notes:</summary>
+
+  ```
+  No notes at the moment
+  ```
+</details>
+
+<details>
+  <summary>Item list:</summary>
+
+  ```
+  Offsets for jewellery are from 16D6 to ???
+
+  Copper ring (Offset: 16D6)
+  00 00 03 00 00 
+  00 05 		5			Value	
+  00 
+  00 
+  69 12 					Icon Ring
+  -> 00 00 03 00 00 00 05 00 00 69 12
+
+  Silver ring (Offset: 16DE)
+  00 00 0B 00 01
+  00 14 		20			Value		
+  00 
+  00 
+  69 12 					Icon Ring
+  -> 00 00 0B 00 01 00 14 00 00 69 12
+
+  Gold ring (Offset: 16E9)
+  00 00 05 00 02
+  00 32			50			Value
+  00 
+  00 
+  69 12 					Icon Ring
+  -> 00 00 05 00 02 00 32 00 00 69 12
+
+  Copper amulet (Offset: 16F4)
+  00 00 02 01 00
+  00 08 		8			Value
+  00 
+  00 
+  6A 26   					Icon Amulet
+  -> 00 00 02 01 00 00 08 00 00 6A 26
+
+  Silver amulet (Offset: 1700)
+  00 00 0A 01 01 
+  00 1E 		30			Value
+  00 
+  00 
+  6A 26   				Icon Amulet
+  -> 00 0A 01 01 00 1E 00 00 6A 26
+
+  Gold amulet (Offset: 170A)
+  00 00 04 01 02
+  00 4B		75			Value
+  00 
+  00 
+  6A 26  					Icon Amulet
+  -> 00 00 04 01 02 00 4B 00 00 6A 26
+
+  Kilbas' Ring (Offset: 1715)
+  00 00 06 00 00
+  01 F4 		500			Value
+  02 						2 Bonuses
+  0E 						Bow
+  0A 						+10
+  0B						Prot Weapons
+  05 						+5
+  00 
+  69 12 					Icon
+  -> 00 00 06 00 00 01 F4 02 0E 0A 0B 05 00 69 12 
+
+  Lakos' Kette (Offset: 1724)
+  00 00 07 01 00
+  00 C8 		200			Value
+  01 						1 Bonus
+  09 						Crit Bonus
+  05 						+5
+  00 
+  6A 26 					Icon
+  -> 00 00 07 01 00 00 C8 01 09 05 00 6A 26
+
+  Tunas Anhänger (Offset: 1731)
+  00 00 0C 01 00 
+  00 C8  		200			Value
+  01 						1 Bonus
+  02 						Health Bonus
+  0F 						+15
+  00 
+  6A 26 					Icon
+  -> 00 00 0C 01 00 00 C8 01 02 0F 00 6A 26
+
+
+
+  Todesring (Offset: 173E)
+  00 00 08 00 02
+  0A 8C 		2700		Value
+  03 						3 Bonuses
+  09 						Crit
+  05 						+5
+  06 						Speed
+  0F 						+15
+  04 						Strength
+  0A 						+10
+  00 
+  69 12 					Icon
+  -> 00 00 08 00 02 0A 8C 03 09 05 06 0F 04 0A 00 69 12
+
+  Admirals Platinring (Offset: 16F4)
+  00 00 01 00 02 
+  08 CA 		2250		Value
+  03 						3 Bonuses
+  04 						Str
+  0A 						+10
+  05 						Dex
+  0A 						+10
+  06 						Speed
+  14 						+20
+  00 
+  69 12 					Icon
+  -> 00 00 01 00 02 08 CA 03 04 0A 05 0A 06 14 00 69 12
+
+  Admirals Glücksbringer (Offset: 1760)
+  00 00 00 01 00
+  08 61 		2145		Value
+  03 						3 Bonuses
+  09 						Crit
+  0A 						+10
+  05 						Dex
+  14 						+20
+  11 						Open Locks
+  14 						+20
+  00 
+  6A 26 					Icon
+  -> 00 00 00 01 00 08 61 03 09 0A 05 14 11 14 00 6A 26
+
+  Ring des Lebens (Offset: 1771)
+  00 00 09 00 02
+  04 B0 		1200		Value
+  02 						2 Bonuses
+  02 						Health
+  28 						+40
+  03 						Mana
+  1E 						+30
+  00 
+  69 12 					Icon
+  -> 00 00 09 00 02 04 B0 02 02 28 03 1E 00 69 12
+
+  00 80 00 07 00 01 ???
+
+  ```
+</details>
+
+### **Copy me to add new item types if you found some**
+
+<details>
+  <summary>Notes:</summary>
+
+  ```
+  Add notes here
+  ```
+</details>
+
+<details>
+  <summary>Item list:</summary>
+
+  ```
+  List the items here
+  ```
+</details>
+
+### **Bonuses**
+
+<details>
+  <summary>Notes:</summary>
+
+  ```
+  Add notes here
+  ```
+</details>
+
+<details>
+  <summary>Item list:</summary>
+
+  ```
+  00		Health
+  01		Mana
+  02		Max. Health
+  03		Max. Mana
+  04		Strength
+  05		Dex
+  06		Attack Speed
+  07		Fire Damage
+  08		Ice Damage
+  09		Crit
+  0A		Prot Weapons
+  0B		Prot Arrows
+  OC		1H
+  OD		2H
+  OE		Bow
+  0F		Crossbow
+  10		Weapon skill (current type)
+  11		Open Locks
+  ```
+</details>
 
 ## **f**
 Still unknown, feel free to contribute your knowledge here

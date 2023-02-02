@@ -1120,16 +1120,6 @@ Admiral's Leather armour (Offset: 142F)
   ```
 </details>
 
-### **Copy me to add new item types if you found some**
-
-<details>
-  <summary>Notes:</summary>
-
-  ```
-  Add notes here
-  ```
-</details>
-
 <details>
   <summary>Item list:</summary>
 
@@ -1170,6 +1160,16 @@ Admiral's Leather armour (Offset: 142F)
   0F		Crossbow
   10		Weapon skill (current type)
   11		Open Locks
+  ```
+</details>
+
+### **Copy me to add new item types if you found some**
+
+<details>
+  <summary>Notes:</summary>
+
+  ```
+  Add notes here
   ```
 </details>
 

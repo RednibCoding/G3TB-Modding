@@ -98,7 +98,7 @@ Light diggers trousers (Offset: 1369)
 00 0A	Value 10
 00 00 
 64 0D 	Icon
-00 00 16 00 00 05 00 00 00 0A 00 00 64 0D
+-> 00 00 16 00 00 05 00 00 00 0A 00 00 64 0D
 
 Diggers trousers (Offset: 1377)
 00 00
@@ -112,7 +112,7 @@ Diggers trousers (Offset: 1377)
 00
 00
 64 0D 	Icon
-00 00 11 00 05 0A 00 00 00 1E 00 00 64 0D
+-> 00 00 11 00 05 0A 00 00 00 1E 00 00 64 0D
 
 Robe (Offset: 1385)
 00 00
@@ -126,7 +126,7 @@ Robe (Offset: 1385)
 00
 00
 64 0E	Icon
-00 00 1B 00 05 0A 05 1E 00 64 00 00 64 0E
+-> 00 00 1B 00 05 0A 05 1E 00 64 00 00 64 0E
 
 Light leather armour (Offset 1393)
 00 00
@@ -140,7 +140,7 @@ Light leather armour (Offset 1393)
 00
 00
 64 27 	Icon
-00 00 17 00 0A 0F 05 00 00 50
+-> 00 00 17 00 0A 0F 05 00 00 50
 
 Leather armour (Offset: 139D)
 00 00
@@ -154,7 +154,7 @@ Leather armour (Offset: 139D)
 00
 00
 64 27 	Icon
-00 00 64 27 00 00 14 00 14 14 0A 00 00 96 00 00 64 27
+-> 00 00 64 27 00 00 14 00 14 14 0A 00 00 96 00 00 64 27
 
 Light chain mail (Offset: 13AF)
 00 00 
@@ -167,7 +167,7 @@ Light chain mail (Offset: 13AF)
 01 5E 	Value 350
 00 00
 64 0F 	Icon
-00 00 15 00 1E 1E 14 00 01 5E 00 00 64 0F
+-> 00 00 15 00 1E 1E 14 00 01 5E 00 00 64 0F
 
 Chain mail (Offset: 13BD)
 00 00 
@@ -181,7 +181,7 @@ Chain mail (Offset: 13BD)
 00
 00
 640F 	Icon
-00 00 0F 00 28 32 28 00 02 94 00 00 64 0F
+-> 00 00 0F 00 28 32 28 00 02 94 00 00 64 0F
 
 Light plate mail (Offset: 13CB)
 00 00 
@@ -195,7 +195,7 @@ Light plate mail (Offset: 13CB)
 00
 00
 6410 	Icon
-00 00 18 00 37 3C 3C 00 04 1A 00 00 64 10
+-> 00 00 18 00 37 3C 3C 00 04 1A 00 00 64 10
 
 Plate mail (Offset: 13D9)
 00 00 
@@ -209,7 +209,7 @@ Plate mail (Offset: 13D9)
 00
 00
 6410 	Icon
-00 00 1A 00 41 46 50 00 06 F4 00 00 64 10
+-> 00 00 1A 00 41 46 50 00 06 F4 00 00 64 10
 
 Ore Armor? (Offset: 13E7)
 00 00 
@@ -223,7 +223,7 @@ Ore Armor? (Offset: 13E7)
 00
 00
 64 10	Icon (Plate mail)
-00 00 19 00 4B 50 5A 28 09 C4 00 00 64 10
+-> 00 00 19 00 4B 50 5A 28 09 C4 00 00 64 10
 
 
 Jesbar's mail shirt (Offset: 13F5)
@@ -242,7 +242,7 @@ Jesbar's mail shirt (Offset: 13F5)
 05 		+5
 00
 640F 	Icon
-00 00 13 00 14 28 1E 00 05 DC 02 02 0A 05 05 00 64 0F
+-> 00 00 13 00 14 28 1E 00 05 DC 02 02 0A 05 05 00 64 0F
 
 Dusaro's Robe? (Offset: 1407)
 00 00 
@@ -262,7 +262,7 @@ Dusaro's Robe? (Offset: 1407)
 28 		+40
 00 		
 64 0E 	Icon (same as Robe)
-00 00 12 00 0F 14 0A 1E 11 94 03 0A 1E 0B 28 03 28 00 64 0E
+-> 00 00 12 00 0F 14 0A 1E 11 94 03 0A 1E 0B 28 03 28 00 64 0E
 
 Corgar's Armor (Offset: 141B)
 00 00 
@@ -282,7 +282,7 @@ Corgar's Armor (Offset: 141B)
 05 		+5
 00
 64 10	Icon (same as Plate mail)
-00 00 10 00 4B 46 50 00 0E C4 03 02 32 04 0A 05 05 00 64 10
+-> 00 00 10 00 4B 46 50 00 0E C4 03 02 32 04 0A 05 05 00 64 10
  
 Admiral's Leather armour (Offset: 142F)
 00 00 
@@ -302,7 +302,7 @@ Admiral's Leather armour (Offset: 142F)
 32		+50
 00
 64 27	Icon (same as Leather armour)
-00 00 0E 00 14 14 0A 00 0D A2 03 0A 28 0B 32 02 32 00 64 27
+-> 00 00 0E 00 14 14 0A 00 0D A2 03 0A 28 0B 32 02 32 00 64 27
 ```
 </details>
 
